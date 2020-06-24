@@ -1,2 +1,3 @@
 hello hi
+new changes in file A in master
 new changes for commit 2 in master
