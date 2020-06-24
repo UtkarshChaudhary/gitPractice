@@ -1,4 +1,5 @@
 hello hi
 new changes in file A in master
 changes made fileA in feature x
+change in orinal file pushed
 new changes for commit 2 in master
