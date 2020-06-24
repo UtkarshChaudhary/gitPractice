@@ -4,3 +4,4 @@ changes made fileA in feature x
 change in file cloned
 change in orignal file pushed
 new changes for commit 2 in master
+git practice2 changes
