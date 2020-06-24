@@ -1,3 +1,4 @@
 new branch uttu
 new changes in file A in master
+changes made in file Bfeature x
 changes for commit2 in uttu
