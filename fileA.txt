@@ -8,3 +8,4 @@ git practice2 changes
 change in orinal file pushed
 new changes for commit 2 in master
 changes for commit c
+new changes to save commit with default commit template
